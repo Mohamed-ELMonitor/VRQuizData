@@ -1,0 +1,55 @@
+{
+	"questions":
+		[
+			{
+				"time": 10,
+				"title": "Threads within the same process can share data with one another?",
+				"correct": true
+			},
+			{
+				"time": 15,
+				"title": "A user-level process cannot modify its own page table entries?",
+				"correct": true
+			},
+			{
+				"time": 20,
+				"title": "DMA is a mechanism allows an I/O device to transfer data to memory?",
+				"correct": true
+			},
+			{
+				"time": 25,
+				"title": "The complexity of handling software TLB faults increases when imprecise?",
+				"correct": true
+			},
+			{
+				"time": 30,
+				"title": "Threads in a process share same file descriptors?",
+				"correct": true
+			},
+			{
+				"time": 35,
+				"title": "Immediately after a process has been forked, the child forked as well?",
+				"correct": false
+			},
+			{
+				"time": 40,
+				"title": "modern operating system use memory protection through virtual memory?",
+				"correct": false
+			},
+			{
+				"time": 45,
+				"title": "Most PC operating systems do not support multi-programming?",
+				"correct": false
+			},
+			{
+				"time": 50,
+				"title": "only one MBR on a disk drive, but there is several boot sectors?",
+				"correct": false
+			},
+			{
+				"time": 55,
+				"title": "A context switch from process to another accomplished in kernel mode?",
+				"correct": true
+			}		
+		]
+}
